@@ -1,0 +1,14 @@
+{
+  "name": "tangerine-action",
+  "version": "0.0.1",
+  "description": "",
+  "main": "action.js",
+  "scripts": {
+    "install-server": "npm install --no-optional --unsafe-perm"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pouchdb": "^7.2.2"
+  }
+}
