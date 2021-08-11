@@ -9,4 +9,4 @@ else
   echo "You have no config.sh. Copy config.defaults.sh to config.sh, change the passwords and try again." && exit 1;
 fi
 
-URL=$URL node action.js
+URL=$URL DOC_ID=$DOC_ID node action.js
